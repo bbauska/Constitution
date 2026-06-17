@@ -1,0 +1,83 @@
+/* ./css/styles.css of bbauska/github/constitution for constitution.bauska.org */
+.header {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 1150px;
+  height: 130px;
+  margin: 0;
+  }
+fieldset { 
+  border-color: orange;
+  background-color: mediumblue;
+  margin-top: -4px;
+  margin-left: 1px;
+  width: 1122px;
+  background-image: url(https://s1.eestatic.com/2020/01/20/el-cultural/el_cultural_461217634_218892509_1706x960.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.new-nation { 
+  font-size: 25px;
+  color:black;
+}
+.hr-first { 
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+.hr-second { 
+  margin-top: 20px;
+}
+p { 
+  font-size: 18px;
+  font-family: "Times new roman", cambria;
+  color: orange;
+}
+button { 
+  width: 150px;
+  height: 40px;
+  background-color: mediumblue;
+  border-color: orange;
+  margin: 2px;
+}
+details { 
+  color: black;
+}
+.details-text { 
+  font-size: 20px;
+  color: black;
+}
+hr { 
+  border-color: orange;
+}
+.capitalism { 
+  margin: 5px;
+}
+.constitution-title { 
+  color: black;
+  font-size: 25px;
+}
+.footer { 
+  margin-top: 10px;
+}
+.div-footer {
+  display: flex;
+  justify-content: flex-start;
+  gap: 50px;
+}
+.social-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 50px;
+  margin-top: -49px;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+  margin-top: -49px;
+  gap: 50px;
+}
